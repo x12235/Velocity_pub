@@ -1,0 +1,31 @@
+[0.015s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[0.047s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.261s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.291s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.301s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.314s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.331s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.408s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.411s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.484s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.565s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[0.807s] [31mCMake Error at CMakeLists.txt:12 (find_package):
+[0.807s]   By not providing "Findjoint_state_publisher.cmake" in CMAKE_MODULE_PATH
+[0.807s]   this project has asked CMake to find a package configuration file provided
+[0.807s]   by "joint_state_publisher", but CMake did not find one.
+[0.807s] 
+[0.807s]   Could not find a package configuration file provided by
+[0.807s]   "joint_state_publisher" with any of the following names:
+[0.807s] 
+[0.807s]     joint_state_publisherConfig.cmake
+[0.808s]     joint_state_publisher-config.cmake
+[0.808s] 
+[0.808s]   Add the installation prefix of "joint_state_publisher" to CMAKE_PREFIX_PATH
+[0.808s]   or set "joint_state_publisher_DIR" to a directory containing one of the
+[0.808s]   above files.  If "joint_state_publisher" provides a separate development
+[0.808s]   package or SDK, be sure it has been installed.
+[0.808s] 
+[0.808s] [0m
+[0.808s] -- Configuring incomplete, errors occurred!
+[0.815s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.818s] Invoked command in '/home/kitili/test2/build/turtle' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6

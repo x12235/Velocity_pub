@@ -1,0 +1,53 @@
+[0.013s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[0.049s] Invoked command in '/home/kitili/test2/build/turtle' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[0.078s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kitili/test2/build/turtle
+[0.084s] -- Install configuration: ""
+[0.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/config
+[0.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/launch
+[0.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/launch/launch.py
+[0.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/maps
+[0.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes
+[0.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision
+[0.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_left1.STL
+[0.086s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_left1.STL
+[0.086s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/base_link.STL
+[0.086s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_left2.STL
+[0.086s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_right1.STL
+[0.086s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_right2.STL
+[0.086s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_right2.STL
+[0.086s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_left2.STL
+[0.086s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_right1.STL
+[0.086s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_left1.STL
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_left1.STL
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/base_link.STL
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_left2.STL
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_right1.STL
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_right2.STL
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_right2.STL
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_left2.STL
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_right1.STL
+[0.087s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/models
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/params
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/rviz
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/rviz/rviz_basic_settings.rviz
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/src
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/urdf
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/urdf/URDF1.urdf
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/worlds
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/ament_index/resource_index/package_run_dependencies/turtle
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/ament_index/resource_index/parent_prefix_path/turtle
+[0.088s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/ament_prefix_path.sh
+[0.089s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/ament_prefix_path.dsv
+[0.089s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/path.sh
+[0.089s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/path.dsv
+[0.089s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.bash
+[0.089s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.sh
+[0.089s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.zsh
+[0.089s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.dsv
+[0.089s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/package.dsv
+[0.089s] -- Up-to-date: /home/kitili/test2/install/turtle/share/ament_index/resource_index/packages/turtle
+[0.089s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/cmake/turtleConfig.cmake
+[0.090s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/cmake/turtleConfig-version.cmake
+[0.090s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/package.xml
+[0.090s] Invoked command in '/home/kitili/test2/build/turtle' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kitili/test2/build/turtle

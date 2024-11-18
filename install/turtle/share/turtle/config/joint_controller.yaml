@@ -1,0 +1,27 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 10 # Hz
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
+velocity_controller:
+      type: velocity_controllers/JointGroupVelocityController
+      ros__parameters:
+        joints:
+          - base_footprint_joint
+          - Front_right1_joint
+          - Front_right2_joint
+          - Back_right1_joint
+          - Back_right2_joint
+          - Front_left1_joint
+          - Front_left2_joint
+          - Back_left1_joint
+          - Back_left2_joint        
+        command_interfaces:
+          - position
+          - velocity
+        state_interfaces:
+          - position
+          - velocity
+

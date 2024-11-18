@@ -1,0 +1,9 @@
+/home/kitili/test2/build/turtle/CMakeFiles/uninstall.dir
+/home/kitili/test2/build/turtle/CMakeFiles/turtle_uninstall.dir
+/home/kitili/test2/build/turtle/CMakeFiles/test.dir
+/home/kitili/test2/build/turtle/CMakeFiles/edit_cache.dir
+/home/kitili/test2/build/turtle/CMakeFiles/rebuild_cache.dir
+/home/kitili/test2/build/turtle/CMakeFiles/list_install_components.dir
+/home/kitili/test2/build/turtle/CMakeFiles/install.dir
+/home/kitili/test2/build/turtle/CMakeFiles/install/local.dir
+/home/kitili/test2/build/turtle/CMakeFiles/install/strip.dir

@@ -1,0 +1,102 @@
+[0.014s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[0.044s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.237s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.267s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.277s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.289s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.304s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.376s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.378s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.449s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.527s] -- Found controller_manager: 4.18.0 (/opt/ros/jazzy/share/controller_manager/cmake)
+[0.875s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.979s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.979s] -- Configured cppcheck include dirs: 
+[0.979s] -- Configured cppcheck exclude dirs and/or files: 
+[0.980s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.981s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.984s] -- Added test 'lint_cmake' to check CMake code style
+[0.985s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.996s] -- Added test 'uncrustify' to check C / C++ code style
+[0.996s] -- Configured uncrustify additional arguments: 
+[0.998s] -- Added test 'xmllint' to check XML markup files
+[0.999s] -- Configuring done (1.0s)
+[1.005s] -- Generating done (0.0s)
+[1.007s] -- Build files have been written to: /home/kitili/test2/build/turtle
+[1.035s] Invoked command in '/home/kitili/test2/build/turtle' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[1.068s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kitili/test2/build/turtle
+[1.077s] -- Install configuration: ""
+[1.077s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/config
+[1.077s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/config/joint_controller.yaml
+[1.077s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/config/ros2_control.xacro
+[1.077s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/launch
+[1.077s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/launch/launch.py
+[1.078s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/launch/__pycache__
+[1.078s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/launch/__pycache__/launch.cpython-312.pyc
+[1.078s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/launch/Turtle.Launch.py
+[1.078s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/maps
+[1.078s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes
+[1.078s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision
+[1.078s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_left1.STL
+[1.079s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_left1.STL
+[1.079s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/base_link.STL
+[1.079s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_left2.STL
+[1.079s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_right1.STL
+[1.079s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_right2.STL
+[1.079s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_right2.STL
+[1.079s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_left2.STL
+[1.079s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_right1.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_left1.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_left1.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/base_link.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_left2.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_right1.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_right2.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_right2.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_left2.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_right1.STL
+[1.080s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision
+[1.081s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision/Front_left1.STL
+[1.081s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision/Back_left1.STL
+[1.081s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision/base_link.STL
+[1.081s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision/Front_left2.STL
+[1.081s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision/Front_right1.STL
+[1.081s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision/Front_right2.STL
+[1.081s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision/Back_right2.STL
+[1.081s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision/Back_left2.STL
+[1.082s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/collision/Back_right1.STL
+[1.082s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual
+[1.082s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual/Front_left1.STL
+[1.082s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual/Back_left1.STL
+[1.082s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual/base_link.STL
+[1.082s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual/Front_left2.STL
+[1.082s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual/Front_right1.STL
+[1.082s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual/Front_right2.STL
+[1.083s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual/Back_right2.STL
+[1.083s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual/Back_left2.STL
+[1.083s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/visual/Back_right1.STL
+[1.083s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/models
+[1.083s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/params
+[1.083s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/rviz
+[1.083s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/rviz/rviz_basic_settings.rviz
+[1.083s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/src
+[1.084s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/urdf
+[1.084s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/urdf/URDF1.urdf
+[1.084s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/worlds
+[1.084s] -- Installing: /home/kitili/test2/install/turtle/share/ament_index/resource_index/package_run_dependencies/turtle
+[1.084s] -- Up-to-date: /home/kitili/test2/install/turtle/share/ament_index/resource_index/parent_prefix_path/turtle
+[1.084s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/ament_prefix_path.sh
+[1.084s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/ament_prefix_path.dsv
+[1.084s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/path.sh
+[1.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/path.dsv
+[1.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.bash
+[1.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.sh
+[1.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.zsh
+[1.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.dsv
+[1.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/package.dsv
+[1.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/ament_index/resource_index/packages/turtle
+[1.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/cmake/turtleConfig.cmake
+[1.085s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/cmake/turtleConfig-version.cmake
+[1.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/package.xml
+[1.086s] Invoked command in '/home/kitili/test2/build/turtle' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kitili/test2/build/turtle

@@ -1,0 +1,33 @@
+[0.016s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[0.058s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.312s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.416s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.448s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.486s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.526s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.693s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.703s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.854s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[0.880s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[0.909s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.058s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[1.531s] [31mCMake Error at CMakeLists.txt:12 (find_package):
+[1.531s]   By not providing "Findjoint_state_publisher.cmake" in CMAKE_MODULE_PATH
+[1.531s]   this project has asked CMake to find a package configuration file provided
+[1.531s]   by "joint_state_publisher", but CMake did not find one.
+[1.531s] 
+[1.531s]   Could not find a package configuration file provided by
+[1.531s]   "joint_state_publisher" with any of the following names:
+[1.531s] 
+[1.531s]     joint_state_publisherConfig.cmake
+[1.532s]     joint_state_publisher-config.cmake
+[1.532s] 
+[1.532s]   Add the installation prefix of "joint_state_publisher" to CMAKE_PREFIX_PATH
+[1.532s]   or set "joint_state_publisher_DIR" to a directory containing one of the
+[1.532s]   above files.  If "joint_state_publisher" provides a separate development
+[1.532s]   package or SDK, be sure it has been installed.
+[1.532s] 
+[1.532s] [0m
+[1.532s] -- Configuring incomplete, errors occurred!
+[1.539s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[1.542s] Invoked command in '/home/kitili/test2/build/turtle' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6

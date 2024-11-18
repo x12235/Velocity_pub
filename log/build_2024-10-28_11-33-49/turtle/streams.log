@@ -1,0 +1,45 @@
+[0.013s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kitili/test2/src/turtle -DCMAKE_INSTALL_PREFIX=/home/kitili/test2/install/turtle
+[0.152s] -- The C compiler identification is GNU 13.2.0
+[0.347s] -- The CXX compiler identification is GNU 13.2.0
+[0.367s] -- Detecting C compiler ABI info
+[0.461s] -- Detecting C compiler ABI info - done
+[0.473s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.474s] -- Detecting C compile features
+[0.475s] -- Detecting C compile features - done
+[0.484s] -- Detecting CXX compiler ABI info
+[0.585s] -- Detecting CXX compiler ABI info - done
+[0.596s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.597s] -- Detecting CXX compile features
+[0.597s] -- Detecting CXX compile features - done
+[0.613s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.759s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.879s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.990s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.990s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.991s] -- Added test 'lint_cmake' to check CMake code style
+[0.992s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.995s] -- Added test 'xmllint' to check XML markup files
+[0.996s] -- Configuring done (1.0s)
+[1.002s] -- Generating done (0.0s)
+[1.003s] -- Build files have been written to: /home/kitili/test2/build/turtle
+[1.007s] Invoked command in '/home/kitili/test2/build/turtle' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kitili/test2/src/turtle -DCMAKE_INSTALL_PREFIX=/home/kitili/test2/install/turtle
+[1.009s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[1.049s] Invoked command in '/home/kitili/test2/build/turtle' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[1.077s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kitili/test2/build/turtle
+[1.084s] -- Install configuration: ""
+[1.084s] -- Installing: /home/kitili/test2/install/turtle/share/ament_index/resource_index/package_run_dependencies/turtle
+[1.084s] -- Installing: /home/kitili/test2/install/turtle/share/ament_index/resource_index/parent_prefix_path/turtle
+[1.084s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/environment/ament_prefix_path.sh
+[1.084s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/environment/ament_prefix_path.dsv
+[1.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/environment/path.sh
+[1.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/environment/path.dsv
+[1.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/local_setup.bash
+[1.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/local_setup.sh
+[1.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/local_setup.zsh
+[1.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/local_setup.dsv
+[1.085s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/package.dsv
+[1.086s] -- Installing: /home/kitili/test2/install/turtle/share/ament_index/resource_index/packages/turtle
+[1.086s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/cmake/turtleConfig.cmake
+[1.086s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/cmake/turtleConfig-version.cmake
+[1.086s] -- Installing: /home/kitili/test2/install/turtle/share/turtle/package.xml
+[1.088s] Invoked command in '/home/kitili/test2/build/turtle' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kitili/test2/build/turtle

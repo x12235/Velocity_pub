@@ -1,0 +1,54 @@
+[0.012s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[0.037s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.226s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.313s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.314s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.314s] -- Added test 'lint_cmake' to check CMake code style
+[0.315s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.318s] -- Added test 'xmllint' to check XML markup files
+[0.319s] -- Configuring done (0.3s)
+[0.322s] -- Generating done (0.0s)
+[0.324s] -- Build files have been written to: /home/kitili/test2/build/turtle
+[0.347s] Invoked command in '/home/kitili/test2/build/turtle' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[0.376s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kitili/test2/build/turtle
+[0.383s] -- Install configuration: ""
+[0.383s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/config
+[0.383s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/launch
+[0.383s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/launch/launch.py
+[0.383s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/maps
+[0.383s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes
+[0.384s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/Front_left1.STL
+[0.384s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision
+[0.384s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_left1.STL
+[0.384s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_left1.STL
+[0.384s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/base_link.STL
+[0.384s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_left2.STL
+[0.384s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_right1.STL
+[0.384s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_right2.STL
+[0.385s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_right2.STL
+[0.385s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_left2.STL
+[0.385s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_right1.STL
+[0.385s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual
+[0.385s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_left1.STL
+[0.385s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_left1.STL
+[0.385s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/base_link.STL
+[0.386s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_left2.STL
+[0.386s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_right1.STL
+[0.386s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_right2.STL
+[0.386s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.386s]   file INSTALL cannot find "/home/kitili/test2/src/turtle/visual": No such
+[0.386s]   file or directory.
+[0.386s] 
+[0.387s] [0m
+[0.387s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_right2.STL
+[0.387s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_left2.STL
+[0.387s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_right1.STL
+[0.387s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/Back_left1.STL
+[0.387s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/base_link.STL
+[0.387s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/Front_left2.STL
+[0.387s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/Front_right1.STL
+[0.387s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/Front_right2.STL
+[0.388s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/Back_right2.STL
+[0.388s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/Back_left2.STL
+[0.388s] -- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/meshes/Back_right1.STL
+[0.388s] Invoked command in '/home/kitili/test2/build/turtle' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kitili/test2/build/turtle

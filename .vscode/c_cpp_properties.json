@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_9/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_8/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_7/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_6/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_5/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_4/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_3/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_2/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_14/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_12/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_11/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_10/include/**",
+        "/home/kitili/ros2_ws/install/ros2_control_demo_example_1/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/kitili/test2/src/turtle/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

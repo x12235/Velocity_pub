@@ -1,0 +1,30 @@
+[0.014s] Invoking command in '/home/kitili/test2/build/turtle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6
+[0.045s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.257s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.287s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.298s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.312s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.328s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.404s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.406s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.481s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.574s] [31mCMake Error at CMakeLists.txt:12 (find_package):
+[0.575s]   By not providing "Findjoint_state_publisher_gui.cmake" in CMAKE_MODULE_PATH
+[0.575s]   this project has asked CMake to find a package configuration file provided
+[0.575s]   by "joint_state_publisher_gui", but CMake did not find one.
+[0.575s] 
+[0.575s]   Could not find a package configuration file provided by
+[0.575s]   "joint_state_publisher_gui" with any of the following names:
+[0.575s] 
+[0.575s]     joint_state_publisher_guiConfig.cmake
+[0.575s]     joint_state_publisher_gui-config.cmake
+[0.575s] 
+[0.575s]   Add the installation prefix of "joint_state_publisher_gui" to
+[0.575s]   CMAKE_PREFIX_PATH or set "joint_state_publisher_gui_DIR" to a directory
+[0.576s]   containing one of the above files.  If "joint_state_publisher_gui" provides
+[0.576s]   a separate development package or SDK, be sure it has been installed.
+[0.576s] 
+[0.576s] [0m
+[0.576s] -- Configuring incomplete, errors occurred!
+[0.582s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.584s] Invoked command in '/home/kitili/test2/build/turtle' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kitili/ros2_ws/install/ros2_control_demo_testing:/home/kitili/ros2_ws/install/build_test_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kitili/test2/build/turtle -- -j6 -l6

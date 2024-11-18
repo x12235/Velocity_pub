@@ -1,0 +1,59 @@
+-- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/kitili/test2/build/turtle
+-- Install configuration: ""
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/config
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/launch
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/launch/launch.py
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/maps
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_left1.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_left1.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/base_link.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_left2.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_right1.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Front_right2.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_right2.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_left2.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/collision/Back_right1.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_left1.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_left1.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/base_link.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_left2.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_right1.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Front_right2.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_right2.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_left2.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/meshes/visual/Back_right1.STL
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/models
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/params
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/rviz
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/rviz/rviz_basic_settings.rviz
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/src
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/urdf
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/urdf/URDF1.urdf
+-- Installing: /home/kitili/test2/install/turtle/share/turtle/worlds
+-- Up-to-date: /home/kitili/test2/install/turtle/share/ament_index/resource_index/package_run_dependencies/turtle
+-- Up-to-date: /home/kitili/test2/install/turtle/share/ament_index/resource_index/parent_prefix_path/turtle
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/ament_prefix_path.sh
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/path.sh
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/environment/path.dsv
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.bash
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.sh
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.zsh
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/local_setup.dsv
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/package.dsv
+-- Up-to-date: /home/kitili/test2/install/turtle/share/ament_index/resource_index/packages/turtle
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/cmake/turtleConfig.cmake
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/cmake/turtleConfig-version.cmake
+-- Up-to-date: /home/kitili/test2/install/turtle/share/turtle/package.xml
